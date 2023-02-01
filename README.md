@@ -8,10 +8,15 @@ You can click the Preview link to take a look at your changes.
 <img src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif" align="center" width="100%" >
 
 
-- 🌱 I’m currently learning **React.js**
+<div style="display:flex">
+  <div>
+        - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **MERN Developer**
+        - 💬 Ask me about **MERN Developer**
 
-- 📫 How to reach me **surajyadav807769@gmail.com**
-
-
+        - 📫 How to reach me **surajyadav807769@gmail.com**
+</div>
+    <div>
+    Hello
+    </diV
+</div>
