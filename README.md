@@ -5,7 +5,7 @@
 suraj826580/suraj826580 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif">
+<img src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif" style="text-align:center ; width:100%">
 <h1 align="center">Hi 👋, I'm Suraj Yadav</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
