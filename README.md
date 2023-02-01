@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center"> नमस्ते 🙏 My name is Suraj Yadav</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img src="https://ecommerce-platforms.com/wp-content/uploads/2018/08/devstory_dribbble_01-1549919968.gif" align="center" width="100%">
+<img src="https://ecommerce-platforms.com/wp-content/uploads/2018/08/devstory_dribbble_01-1549919968.gif" align="center" width="100%" height="200px">
 
 
 - 🌱 I’m currently learning **React.js**
