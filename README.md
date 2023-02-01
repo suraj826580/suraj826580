@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center"> नमस्ते 🙏 My name is Suraj Yadav</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif" align="center" width="100%" height="200px">
+<img src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif" align="center" width="100%" >
 
 
 - 🌱 I’m currently learning **React.js**
