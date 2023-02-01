@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
         - 🌱 I’m currently learning **React.js**
 
-        - 💬 Ask me about **MERN Developer**
+        - 💬 Ask me about **MERN Developement**
 
         - 📫 How to reach me **surajyadav807769@gmail.com**
 
