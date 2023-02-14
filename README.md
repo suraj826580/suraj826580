@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif" align="center" width="100%" >
   <video autoplay>
           <source
-            src="[./video/200314 _Work Life_02_ 4k_017.mp4](https://www.canva.com/design/DAFaUI_n_hk/LhJHjsF0NFrhkSY64WEwWg/watch?utm_content=DAFaUI_n_hk&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)"
+            src="./video/200314 _Work Life_02_ 4k_017.mp4](https://www.canva.com/design/DAFaUI_n_hk/LhJHjsF0NFrhkSY64WEwWg/watch?utm_content=DAFaUI_n_hk&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)"
             type="video/mp4" />
         </video>
 
