@@ -7,16 +7,6 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 <img src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif" align="center" width="100%" > 
 
-        - 🌱 I’m currently learning **React.js**
-
-        - 💬 Ask me about **MERN Developement**
-
-        - 📫 How to reach me **surajyadav807769@gmail.com**
-
-
-<h1 align="center">Hi 👋, I'm Suraj Yadav</h1>
-<h3 align="center">A Passionate Full Stack Web Developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj826580&label=Profile%20views&color=0e75b6&style=flat" alt="suraj826580" /> </p>
 
 - 🌱 I’m currently learning **React.js**
