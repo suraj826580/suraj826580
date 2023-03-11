@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/suraj826580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/suraj826580" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/suraj-yadav-068230246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraj-yadav-068230246?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b8mwgqvb4t76shyyzgqqfcw%3d%3d" height="30" width="40" /></a>  
 <a href="https://codesandbox.com/https://codesandbox.io/u/surajyadav807769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/surajyadav807769" height="30" width="40" /></a>
 <a href="https://instagram.com/suraj_._yadav_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj_._yadav_._" height="30" width="40" /></a>
