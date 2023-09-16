@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <!----------<h1 align="center"> नमस्ते 🙏 My name is Suraj Yadav</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>------->
-<!----<img src="https://github.com/suraj826580/suraj826580/blob/main/gif%20banner.gif" align="center" width="100%"> 
+<img src="https://github.com/suraj826580/suraj826580/blob/main/gif%20banner.gif" align="center" width="100%"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj826580&label=Profile%20views&color=0e75b6&style=flat" alt="suraj826580" /> </p>
 
@@ -38,10 +38,9 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj826580&" alt="suraj826580" /></p>
 
--------->
 
 
-
+<!------------
 <div align="center">
   <img height="150" src="https://raw.githubusercontent.com/suraj826580/suraj826580/main/gif%20banner.gif"  />
 </div>
@@ -55,13 +54,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.facebook.com/cutesooraj" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="surajyadav807769@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
   <a href="https://www.instagram.com/suraj_._yadav_._/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
 
 ###
@@ -117,7 +112,10 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj826580&show_icons=true&locale=en&layout=compact" alt="suraj826580" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj826580&show_icons=true&locale=en" alt="suraj826580" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj826580&" alt="suraj826580" /></p>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=suraj826580&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
@@ -139,3 +137,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/suraj826580/suraj826580/output/snake.svg" alt="Snake animation" />
 
 ###
+---------------------------->
