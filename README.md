@@ -61,8 +61,8 @@ I'm a passionate developer currently working on a realtor project. I love coding
 ## 🌐 Connect with Me:
 
 <p align="center">
-  <a href="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" target="_blank">
-    <img width="45px" height="45px" src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/suraj-yadav-068230246/" target="_blank">
+    <img width="45px" height="45px" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="LinkedIn" />
   </a>
   <a href="https://github.com/suraj826580" target="_blank">
     <img width="39px" height="39px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" alt="Portfolio" />
